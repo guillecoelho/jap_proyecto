@@ -1,0 +1,23 @@
+form {
+	padding-top: 10%;
+	padding-bottom: 10%;
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
+.form-floating {
+	padding: 3%;
+}
+
+img {
+	padding: 0.25rem;
+	max-width: 100%;
+	height: auto;
+}
+
+.container-botones {
+	display: flex;
+	justify-content: space-around;
+	padding: 0%;
+	vertical-align: middle;
+}
